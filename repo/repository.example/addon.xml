@@ -2,9 +2,9 @@
 <addon id="thecrew" name="technics1200mk/AhiStick" version="0.3.4" provider-name="technics1200mk">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/technics1200mk/repository.example/main/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/technics1200mk/repository.example/main/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/technics1200mk/repository.example/main/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/technics1200mk/repository.example/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/technics1200mk/repository.example/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/technics1200mk/repository.example/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
